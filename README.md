@@ -1,10 +1,10 @@
 Привет, меня зовут Сергей ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-Front-end разработчик | JavaScript | Реагировать | HTML и CSS | САСС | SQL | ГИТ 
+Front-end developer 
 
-Веб-разработчик. Мой путь к ИТ-наступлению на заре становления интернета. Мне удалось попробовать себя в разных направлениях, попробовать выучить язык Си и JAVA, попробовать свои силы на C++, но больше всего меня зацепила веб-разработка! В 2021 году начал веб-разработку на JS. * 🧠 Я изучаю Next.js * 🤝 Всегда открыт к для нового * ⚡Я Морфеус из Матрицы, только никто не говорит
+WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed to try myself in different directions, try to learn the C language and JAVA, try my hand at C++, but most of all I was hooked on web development! In 2021, I started web development using JS. * 🧠 I'm learning Next.js * 🤝 Always open to new things* ⚡Я Морфеус из Матрицы, только никто не говорит
 
 ---
-### 💻 FRONTEND
+### 💻Front-end
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30" height="30"/>&nbsp
