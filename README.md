@@ -20,7 +20,7 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="20" height="20"/>&nbsp;
@@ -38,7 +38,7 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https ://www.linkedin.com/in/sergey-langavoy-021b17121/" target="_blank">
