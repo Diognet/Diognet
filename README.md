@@ -1,24 +1,54 @@
-Привет, меня зовут Сергей ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ============= =============================================== =============================================== =================== Front-end разработчик | JavaScript | Реагировать | HTML и CSS | САСС | SQL | ГИТ -------------------------------------------------- ------------------------------- Я веб-разработчик. Мой путь к ИТ-наступлению на заре становления интернета. Мне удалось попробовать себя в разных направлениях, попробовать выучить язык Си и JAVA, попробовать свои силы на C++, но больше всего меня зацепила веб-разработка! В 2021 году я начал веб-разработку на разных онлайн-курсах. * 🌍 Я всегда живу * ✉️ Связаться со мной можно по адресу [morgan.up.dn@gmail.com .](mailto:morgan.up.dn@gmail.com)[](mailto:morgan.up.dn@gmail .com) * 🧠 Я изучаю Next.js * 🤝 Я открыт к сотрудничеству по Грузии. * ⚡Я Морфеус из Матрицы, только никто не говорит
+Привет, меня зовут Сергей ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Front-end разработчик | JavaScript | Реагировать | HTML и CSS | САСС | SQL | ГИТ 
 
-### FRONTEND
-<p align="left">
- <a href="https: //developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://www.typescriptlang.org/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width=" 36" height="36" alt="TypeScript" /></a> 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent. com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a >
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent. com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
+Веб-разработчик. Мой путь к ИТ-наступлению на заре становления интернета. Мне удалось попробовать себя в разных направлениях, попробовать выучить язык Си и JAVA, попробовать свои силы на C++, но больше всего меня зацепила веб-разработка! В 2021 году начал веб-разработку на JS. * 🧠 Я изучаю Next.js * 🤝 Всегда открыт к для нового * ⚡Я Морфеус из Матрицы, только никто не говорит
+
+---
+### 💻 FRONTEND
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30" height="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="30" height="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="30" height="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="nextjs" alt="nextjs" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="30" height="30"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
+</div>
+
+---
 
 ### 🛠 Инструменты:
-<a href="https: //reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored .svg" width="36" height="36" alt="React" /></a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Гэтсби" " /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme -generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://www.w3" .org/TR/CSS/#css» target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ css3-цветной.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme- генератор/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/ icon/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://redux.js.org/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" высота ="36" alt="Redux" /></a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw .githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a> < a href= "https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/ навыки/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36 " alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw. githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href=" https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills /django-colored.svg" width="36" height="36" alt="Django" /></a> <a href="https://www.docker.com/" target="_blank" rel ="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank " rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height=" 36" alt="Premiere Pro" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="figma" /></a> <a href ="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons /skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="20" height="20"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="20" height="20"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="20" height="20"/>&nbsp;
+</div>
+
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Diognet/badges/small)
+
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https ://www.linkedin.com/in/sergey-langavoy-021b17121/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="20" height="20" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Diognet" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram group" />
+    </a>
+     </div>
 
 
 
-### Социальные сети
-
-<p align="left"> <a href="https://www.github.com/Diognet" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает -color-scheme: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(предпочитает -color-scheme: светлый)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https ://www.linkedin.com/in/sergey-langavoy-021b17121/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: Light)" srcset=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator /main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
-
-### Значки
-
-<a href="https://github.com/Diognet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diognet&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Лучшие языки" /></a>
