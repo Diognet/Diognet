@@ -1,4 +1,3 @@
-Привет, меня зовут Сергей ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Front-end developer 
 
 WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed to try myself in different directions, try to learn the C language and JAVA, try my hand at C++, but most of all I was hooked on web development! In 2021, I started web development using JS. * 🧠 I'm learning Next.js * 🤝 Always open to new things* ⚡Я Морфеус из Матрицы, только никто не говорит
