@@ -22,7 +22,6 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="30" height="30"/>&nbsp;
 </div>
-
 ---
 
 ### 🛠 Tools:
