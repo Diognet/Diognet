@@ -1,6 +1,6 @@
 Front-end developer 
 
-WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed to try myself in different directions, try to learn the C language and JAVA, try my hand at C++, but most of all I was hooked on web development! In 2021, I started web development using JS. * 🧠 I'm learning Next.js * 🤝 Always open to new things* ⚡Я Морфеус из Матрицы, только никто не говорит
+WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed to try myself in different directions, try to learn the C language and JAVA, try my hand at C++, but most of all I was hooked on web development! In 2021, I started web development using JS. * 🧠 I'm learning Next.js * 🤝 Always open to new things* 
 
 ---
 ### 💻Front-end
@@ -22,6 +22,7 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="30" height="30"/>&nbsp;
 </div>
+
 ---
 
 ### 🛠 Tools:
