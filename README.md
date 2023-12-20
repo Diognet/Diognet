@@ -57,8 +57,8 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
 
 - :mailbox: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:morgan.up.dn@gmail.com)
 
-
-     </div>
+ </div>
+    
 
 
 
