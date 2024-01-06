@@ -53,9 +53,6 @@ WEB-developer. My path to an IT offensive at the dawn of the Internet. I managed
     <a href="https://t.me/Diognet" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram group" />
     </a>
-
-- :mailbox: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:morgan.up.dn@gmail.com)
-
  </div>
     
 
